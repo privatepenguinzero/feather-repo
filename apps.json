@@ -3,6 +3,27 @@
   "identifier": "io.github.privatepenguinzero.apps",
   "subtitle": "App personali per Feather",
   "iconURL": "https://raw.githubusercontent.com/privatepenguinzero/feather-repo/main/icons/edicola.png",
-  "apps": [],
+  "apps": [
+    {
+      "name": "Edicola",
+      "bundleIdentifier": "io.github.edicola.app",
+      "developerName": "privatepenguinzero",
+      "iconURL": "https://raw.githubusercontent.com/privatepenguinzero/feather-repo/main/icons/edicola.png",
+      "versions": [
+        {
+          "version": "0.2.3",
+          "date": "2026-11-27",
+          "downloadURL": "https://raw.githubusercontent.com/privatepenguinzero/feather-repo/main/ipa/edicola-0.2.3.ipa",
+          "size": 628047
+        }
+      ],
+      "localizedDescription": "Lettore per Miniflux: le notizie dei tuoi feed, a schede, con loghi, riassunti e notifiche.",
+      "subtitle": "Lettore per Miniflux: le notizie dei tuoi feed, a schede, con loghi, riassunti e notifiche",
+      "version": "0.2.3",
+      "versionDate": "2026-11-27",
+      "downloadURL": "https://raw.githubusercontent.com/privatepenguinzero/feather-repo/main/ipa/edicola-0.2.3.ipa",
+      "size": 628047
+    }
+  ],
   "news": []
 }
