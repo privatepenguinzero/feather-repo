@@ -11,6 +11,12 @@
       "iconURL": "https://raw.githubusercontent.com/privatepenguinzero/feather-repo/main/icons/edicola.png",
       "versions": [
         {
+          "version": "0.2.6",
+          "date": "2026-11-27",
+          "downloadURL": "https://raw.githubusercontent.com/privatepenguinzero/feather-repo/main/ipa/edicola-0.2.6.ipa",
+          "size": 660078
+        },
+        {
           "version": "0.2.5",
           "date": "2026-11-27",
           "downloadURL": "https://raw.githubusercontent.com/privatepenguinzero/feather-repo/main/ipa/edicola-0.2.5.ipa",
@@ -31,10 +37,10 @@
       ],
       "localizedDescription": "Lettore per Miniflux: le notizie dei tuoi feed, a schede, con loghi, riassunti e notifiche.",
       "subtitle": "Lettore per Miniflux: le notizie dei tuoi feed, a schede, con loghi, riassunti e notifiche",
-      "version": "0.2.5",
+      "version": "0.2.6",
       "versionDate": "2026-11-27",
-      "downloadURL": "https://raw.githubusercontent.com/privatepenguinzero/feather-repo/main/ipa/edicola-0.2.5.ipa",
-      "size": 643012
+      "downloadURL": "https://raw.githubusercontent.com/privatepenguinzero/feather-repo/main/ipa/edicola-0.2.6.ipa",
+      "size": 660078
     }
   ],
   "news": []
